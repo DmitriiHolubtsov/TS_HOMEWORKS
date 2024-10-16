@@ -1,1 +1,3 @@
-# HOMEWORK #1
+# HOMEWORK #3
+
+## Private variables immitation throu closure
