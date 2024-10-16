@@ -1,2 +1,1 @@
-# TS_HOMEWORKS
-TypeScript Homeworks
+# HOMEWORK #1
