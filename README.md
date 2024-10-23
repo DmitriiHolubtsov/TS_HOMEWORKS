@@ -1,1 +1,3 @@
-# HOMEWORK #1
+# HOMEWORK #2
+
+## Get string description
