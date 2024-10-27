@@ -1,5 +1,3 @@
-# HOMEWORK #5
+# HOMEWORK #6
 
-## TS: Deep Copy
-
-## to compile, run: tsc --project ./tsconfig.json
+## TS: Create Deeply nested tree of objects
