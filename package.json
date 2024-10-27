@@ -6,7 +6,9 @@
   "scripts": {
     "test": "no",
     "format": "prettier --write \"js/**/*.js\"",
-    "lint-check": "eslint js/script.js"
+    "lint-check": "eslint js/script.js",
+    "build": "tsc",
+    "start": "node dist/index.js"
   },
   "repository": {
     "type": "git",
@@ -26,6 +28,7 @@
     "eslint-config-airbnb-base": "^15.0.0",
     "eslint-plugin-import": "^2.29.1",
     "lodash": "^4.17.21",
-    "prettier": "^3.2.5"
+    "prettier": "^3.2.5",
+    "typescript": "^5.6.3"
   }
 }
